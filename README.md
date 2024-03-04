@@ -2,16 +2,20 @@
 
 **I'm a 2nd year student pursuing B.tech CSE AIML from Brainware University.**
 
-💻 **Technology Stack:**
-- JavaScript 
-- C++
+💻 **Technology Stack:**\
+- HTML
+- CSS
 - Bootstrap
-- Heroku
-- Node.js
-- React
+- JavaScript
+- Node .js
+- Express .js
+- Sql
 - MongoDB
-- MySQL
 - Git
+- Netlify
+- Python
+- Flask
+
 
 🌱 **I'm currently working on:**
 - MERN Stack Web Development
