@@ -2,7 +2,7 @@
 
 **I'm a 2nd year student pursuing B.tech CSE AIML from Brainware University.**
 
-💻 **Technology Stack:**\
+💻 **Technology Stack:**
 - HTML
 - CSS
 - Bootstrap
