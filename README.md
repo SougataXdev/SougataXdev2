@@ -19,7 +19,7 @@
 
 🌟 **GitHub Stats:**
 
-![Ritik Rawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SougataXdev&show_icons=true&theme=radical)
+![SougataXdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SougataXdev&show_icons=true&theme=radical)
 
 
 💬 **Ask me about:**
