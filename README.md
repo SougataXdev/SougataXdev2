@@ -1,4 +1,4 @@
-# 👋 Hello, I'm <a href="https://imgbb.com/"><img src="https://i.ibb.co/tc8BySQ/Sougata-Mandal-2.gif" alt="Sougata-Mandal-2" border="0"></a>
+# 👋 Hello, I'm <a href="https://imgbb.com/"><img src="https://i.ibb.co/tc8BySQ/Sougata-Mandal-2.gif" alt="Sougata-Mandal-2" border="0" width="500" height="10"></a>
 
 **I'm a 2nd year student pursuing B.tech CSE AIML from Brainware University.**
 
