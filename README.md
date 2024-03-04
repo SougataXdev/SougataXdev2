@@ -1,6 +1,5 @@
-# 👋 Hello, I'm `Sougata Mandal`
+# 👋 Hello, I'm `<a href="https://imgbb.com/"><img src="https://i.ibb.co/tc8BySQ/Sougata-Mandal-2.gif" alt="Sougata-Mandal-2" border="0"></a>`
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YTddVSd/Sougata-Mandal-1.gif" alt="Sougata-Mandal-1" border="0"></a>
 **I'm a 2nd year student pursuing B.tech CSE AIML from Brainware University.**
 
 💻 **Technology Stack:**
