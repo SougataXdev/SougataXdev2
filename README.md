@@ -1,4 +1,4 @@
-# 👋 Hello, I'm `Sougata Mandal`
+# 👋 Hello, I'm <span id="typed-text"></span><span id="cursor"></span>
 
 <img src="https://avatars.githubusercontent.com/u/your_github_username?v=4" alt="Ritik Rawal's Avatar" width="200" height="200" />
 
@@ -49,3 +49,46 @@
     <img src="https://img.shields.io/github/stars/SougataXdev?style=social" alt="GitHub Stars" />
   </a>
 </p>
+
+<script>
+  // List of strings to display
+  const strings = ["Sougata Mandal"];
+
+  // Index of the string to display
+  let i = 0;
+
+  // Speed of typing (milliseconds)
+  const speed = 150;
+
+  // Function to simulate typing
+  function typeWriter() {
+    if (i < strings[0].length) {
+      document.getElementById("typed-text").innerHTML += strings[0].charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  // Start typing when page loads
+  window.onload = function() {
+    typeWriter();
+  };
+</script>
+
+<style>
+  /* Styling for the cursor */
+  #cursor {
+    display: inline-block;
+    width: 8px;
+    height: 20px;
+    background-color: #000;
+    animation: blink 0.8s infinite;
+  }
+
+  /* Blink animation for the cursor */
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+</style>
