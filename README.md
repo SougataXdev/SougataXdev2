@@ -19,7 +19,7 @@
 
 🌱 **I'm currently working on:**
 - MERN Stack Web Development
-- Data Structures and Algorithms skills
+- Data Structures and Algorithms
 
 🌟 **GitHub Stats:**
 
