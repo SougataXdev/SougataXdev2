@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sougata Mandal
+# 👋 Hello, I'm `Sougata Mandal`
 
 <img src="https://avatars.githubusercontent.com/u/your_github_username?v=4" alt="Ritik Rawal's Avatar" width="200" height="200" />
 
@@ -16,7 +16,7 @@
 - Git
 
 🌱 **I'm currently working on:**
-- MERN Stack Web Developmen.
+- MERN Stack Web Development
 - Data Structures and Algorithms skills
 
 🌟 **GitHub Stats:**
