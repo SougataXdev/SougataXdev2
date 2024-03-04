@@ -1,7 +1,6 @@
-# 👋 Hello, I'm <span id="typed-text"></span><span id="cursor"></span>
+# 👋 Hello, I'm `Sougata Mandal`
 
-<img src="https://avatars.githubusercontent.com/u/your_github_username?v=4" alt="Ritik Rawal's Avatar" width="200" height="200" />
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YTddVSd/Sougata-Mandal-1.gif" alt="Sougata-Mandal-1" border="0"></a>
 **I'm a 2nd year student pursuing B.tech CSE AIML from Brainware University.**
 
 💻 **Technology Stack:**
@@ -29,66 +28,17 @@
 - Mentoring
 
 ✉️ **How to reach me:**
-- Email: [iaamsougata@gmail.com]
-- LinkedIn: [www.linkedin.com/in/sougata-mandal-51a55824b]
+- Email: [iaamsougata@gmail.com](mailto:iaamsougata@gmail.com)
+- LinkedIn: [Sougata Mandal](https://www.linkedin.com/in/sougata-mandal-51a55824b/)
 
 📚 **Certifications:**
 - Developer Program Member (PRO)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SougataXdev&theme=radical" alt="Ritik Rawal's Trophies" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/SougataXdev">
-    <img src="https://komarev.com/ghpvc/?username=SougataXdev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/SougataXdev?tab=repositories&sort=stars">
-    <img src="https://img.shields.io/github/stars/SougataXdev?style=social" alt="GitHub Stars" />
-  </a>
-</p>
+**Typing Animation:**
 
-<script>
-  // List of strings to display
-  const strings = ["Sougata Mandal"];
+```markdown
+Sougata Mandal
+![Typing Animation](link_to_your_typing_animation.gif)
 
-  // Index of the string to display
-  let i = 0;
-
-  // Speed of typing (milliseconds)
-  const speed = 150;
-
-  // Function to simulate typing
-  function typeWriter() {
-    if (i < strings[0].length) {
-      document.getElementById("typed-text").innerHTML += strings[0].charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    }
-  }
-
-  // Start typing when page loads
-  window.onload = function() {
-    typeWriter();
-  };
-</script>
-
-<style>
-  /* Styling for the cursor */
-  #cursor {
-    display: inline-block;
-    width: 8px;
-    height: 20px;
-    background-color: #000;
-    animation: blink 0.8s infinite;
-  }
-
-  /* Blink animation for the cursor */
-  @keyframes blink {
-    50% {
-      opacity: 0;
-    }
-  }
-</style>
